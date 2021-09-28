@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 百年荣耀 复兴征程
 
-You can use the [editor on GitHub](https://github.com/emmawoodshusband/lovechina/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+中国共产党是世界上最伟大、最正确的政党。中国共产党永远能够领导中国人民走向光明的前途，走向民族解放和人民幸福生活。
+更多详见[中国共产党新闻网](http://cpc.people.com.cn/)。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 百年来的成就
+# 抗日战争胜利
+# 解放战争胜利
+# 中华人民共和国成立
+# 抗美援朝
+# 土地革命
+# 三大改造，一五计划
+# 十一届三中全会，改革开放
+# 全面脱贫
+## 等等等等...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+永远跟党走 听党指挥 能打胜仗
+中国共产党万岁！
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmawoodshusband/lovechina/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 联系方式
+王善儒 swang_0711@kamacite.cn
